@@ -5,7 +5,7 @@ a software engineering student at the [Faculty of Technical Sciences](http://ftn
 
 ## 📧 Contact me
 
-<a href="https://www.linkedin.com/in/iamnikoladamjanovic" target="_blank" rel="nofollow"><img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
+<a href="https://www.linkedin.com/in/vladanmikic" target="_blank" rel="nofollow"><img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
 
 <br>
 
