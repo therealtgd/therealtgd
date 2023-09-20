@@ -1,7 +1,7 @@
 # Hi👋 there,
 
 I'm Vladan Mikić,
-a software engineering student at the [Faculty of Technical Sciences](http://ftn.uns.ac.rs/691618389/fakultet-tehnickih-nauka), and an intern at [LambdaWorks](https://www.lambdaworks.io/).
+a software engineering student at the [Faculty of Technical Sciences](http://ftn.uns.ac.rs/691618389/fakultet-tehnickih-nauka), and a Software Engineer at [LambdaWorks](https://www.lambdaworks.io/).
 
 ## 📧 Contact me
 
