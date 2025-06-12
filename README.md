@@ -1,7 +1,7 @@
 # Hi👋 there,
 
 I'm Vladan Mikić,
-a software engineering student at the [Faculty of Technical Sciences](http://ftn.uns.ac.rs/691618389/fakultet-tehnickih-nauka), and a Software Engineer at [LambdaWorks](https://www.lambdaworks.io/).
+a Electronics and Computer Engineering graduate from the [University of Novi Sad]([http://ftn.uns.ac.rs/691618389/fakultet-tehnickih-nauka](https://www.uns.ac.rs/)), and a Software Engineer at [LambdaWorks](https://www.lambdaworks.io/).
 
 ## 📧 Contact me
 
