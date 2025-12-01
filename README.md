@@ -1,7 +1,7 @@
 # Hi👋 there,
 
 I'm Vladan Mikić,
-a Electronics and Computer Engineering graduate from the [University of Novi Sad]([http://ftn.uns.ac.rs/691618389/fakultet-tehnickih-nauka](https://www.uns.ac.rs/)), and a Software Engineer at [LambdaWorks](https://www.lambdaworks.io/).
+a Electronics and Computer Engineering graduate from the [University of Novi Sad]([http://ftn.uns.ac.rs/691618389/fakultet-tehnickih-nauka](https://www.uns.ac.rs/)), and a Software Engineer at [FishingBooker](https://fishingbooker.com/).
 
 ## 📧 Contact me
 
@@ -10,9 +10,8 @@ a Electronics and Computer Engineering graduate from the [University of Novi Sad
 <br>
 
 ## 😊 More stuff about me
-- 💻 I'm an aspiring full stack web developer.
-- 🏍️ An avid motorcycle rider.
-- 🤓 Currently learning React Native.
+- 💻 I like building web & mobile apps.
+- 🏍️ While not working I like riding my motorcycle.
 
 
 ## 🧰 Technologies
